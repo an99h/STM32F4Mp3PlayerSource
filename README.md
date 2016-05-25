@@ -1,9 +1,9 @@
 # STM32F4Mp3PlayerSource
 My graduation design
-#STM32F07VGT6硬件连接图
+##STM32F07VGT6硬件连接图
 
 
-##					ILI9341	8位数据线		2.4寸LCD屏幕引脚配置
+###					ILI9341	8位数据线		2.4寸LCD屏幕引脚配置
 					数据线：PE0 --------->LCD_D0							
 						 	PE1 --------->LCD_D1	
 							PE2 --------->LCD_D2	
@@ -19,7 +19,7 @@ My graduation design
 							PB14--------->LCD_REST	
 
 
-##					TF卡SPI1引脚配置									
+###					TF卡SPI1引脚配置									
 							PA5--------->SD_CLK						
 						 	PA6--------->SD_MISO						
 							PA7--------->SD_MOSI							
@@ -33,7 +33,7 @@ My graduation design
 							PA11--------->OTG_FS_DM				
 																			
 																	
-##					音频解码芯片CS43L22									
+###					音频解码芯片CS43L22									
 					I2C配置	PD4 --------->REST							
 							PB6 --------->SCL								
 							PB9 --------->SDA								
@@ -48,7 +48,7 @@ My graduation design
 							PB11--------->USART3_RX						
 																			
 																			
-##					按键引脚配置										
+##3					按键引脚配置										
 							PA0--------->KEY0_PRESS					
 							PD0--------->PAGE_DOWN				
 							PD1--------->NEXT_SONG				
