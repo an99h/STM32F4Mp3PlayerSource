@@ -48,7 +48,7 @@ My graduation design
 							PB11--------->USART3_RX						
 																			
 																			
-##3					按键引脚配置										
+###					按键引脚配置										
 							PA0--------->KEY0_PRESS					
 							PD0--------->PAGE_DOWN				
 							PD1--------->NEXT_SONG				
