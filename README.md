@@ -1,7 +1,7 @@
 # STM32F4Mp3PlayerSource
 My graduation design  
 
-##STM32F07VGT6硬件连接图
+## STM32F07VGT6硬件连接图
 
 
 ###					ILI9341	8位数据线		2.4寸LCD屏幕引脚配置
